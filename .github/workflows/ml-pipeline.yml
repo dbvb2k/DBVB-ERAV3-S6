@@ -26,12 +26,12 @@ jobs:
       run: |
         pytest tests/
         
-    - name: Train model
-      run: |
-        python train.py
+    # - name: Train model
+    #   run: |
+    #     python train.py
         
-    - name: Upload trained model
-      uses: actions/upload-artifact@v2
-      with:
-        name: trained-model
-        path: models/*.pth 
+    # - name: Upload trained model
+    #   uses: actions/upload-artifact@v2
+    #   with:
+    #     name: trained-model
+    #     path: models/*.pth 
