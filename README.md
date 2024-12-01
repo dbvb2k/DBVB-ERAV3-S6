@@ -76,6 +76,6 @@ Log 1
 ![Training Log 1](./images/Acc-Scrshot1.jpg?raw=true "Training Log 1")
 
 Log 2:
-![Training Log 2](./images/Acc-Scrshot2.jpg?raw=true "Training Log 2")
+![Training Log 2](./images/Acc-Scrshot2.JPG?raw=true "Training Log 2")
 
 
