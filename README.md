@@ -71,10 +71,11 @@ Set up a Python environment
 The model file will be automatically suffixed with the accuracy and timestamp when saved, making it easy to track different versions of the model.
 
 **Sample training logs**
+
 Log 1
-![Training Log 1]((https://github.com/dbvb2k/DBVB-ERAV3-S6/blob/main/images/Acc-Scrshot1.jpg) "Log 1")
+![Training Log 1](./images/Acc-Scrshot1.jpg?raw=true "Training Log 1")
 
 Log 2:
-![Training Log 2](images/Acc-Scrshot2.jpg)
+![Training Log 2](./images/Acc-Scrshot2.jpg?raw=true "Training Log 2")
 
 
